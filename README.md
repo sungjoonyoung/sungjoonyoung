@@ -1,5 +1,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungso376)](https://solved.ac/sungso376)
+![sungso376's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sungso376)
 <!--
 **sungjoonyoung/sungjoonyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
