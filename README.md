@@ -4,7 +4,7 @@ thx to [- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=
 
 ## 👋 About Me
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20sungjoonyoung%20🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20sungjoonyoung%20&fontSize=36&animation=fadeIn&fontAlignY=36)
 - Dongguk University, Bachelor of Science in Mathematics and Computer Science
 - Algorithm Learner
 - MachineLearning-DeepLearning Learner
