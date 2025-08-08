@@ -2,7 +2,7 @@
 thx to [- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">](https://github.com/jinhan814/jinhan814/tree/main)
 -->
 
-## 👋 About Me
+## About Me
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20sungjoonyoung%20&fontSize=36&animation=fadeIn&fontAlignY=36)
 - Dongguk University, Bachelor of Science in Mathematics and Computer Science
@@ -34,7 +34,7 @@ thx to [- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=
 
 ### Machine Learning Note
 
-- [MachineLearning-DeepLearning](https://github.com/sungjoonyoung/self_MachineLearning-DeepLearning) : Self leaning in MachineLearning-DeepLearning
+- [MachineLearning-DeepLearning](https://github.com/sungjoonyoung/self_MachineLearning-DeepLearning) : Self-learning in Machine Learning and Deep Learning
 
 ## 🏆 Cards
 
