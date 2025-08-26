@@ -16,6 +16,12 @@ thx to [- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=
 - <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
 -->
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+
+##📝 Major Projects
+
+- [On-Knight-s-Tours-in-Higher-Dimensions-and-High-Accuracy-Heuristics-for-Generalized-Leaper-Moves](https://github.com/sungjoonyoung/On-Knight-s-Tours-in-Higher-Dimensions-and-High-Accuracy-Heuristics-for-Generalized-Leaper-Moves/blob/main/README.md)
+- [BFS-Based Pedestrian Safety Warning System for Vehicles in Alleys](https://github.com/sungjoonyoung/2025AdventureDesign)
+
 ## 🗨 Blog
 
 - [Naver Blog](https://blog.naver.com/walkingsnow123)
