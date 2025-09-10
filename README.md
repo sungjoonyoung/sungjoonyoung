@@ -19,7 +19,7 @@ thx to [- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=
 
 ## 📝 Major Projects
 
-- [Universal_heuristics_high_accuracy_knights_tour_higher-dimensional_chessboards_movement_rules](Universal_heuristics_high_accuracy_knights_tour_higher-dimensional_chessboards_movement_rules/blob/main/README.md)
+- [Universal_heuristics_high_accuracy_knights_tour_higher-dimensional_chessboards_movement_rules](https://github.com/sungjoonyoung/Universal_heuristics_high_accuracy_knights_tour_higher-dimensional_chessboards_movement_rules/blob/main/README.md)
 - 2025AdventureDesign : [BFS-Based Pedestrian Safety Warning System for Vehicles in Alleys](https://github.com/sungjoonyoung/2025AdventureDesign/blob/main/README.md)
 
 ## 🗨 Blog
