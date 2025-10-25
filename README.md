@@ -1,30 +1,12 @@
 <!--
 thx to [- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">](https://github.com/jinhan814/jinhan814/tree/main)
--->
 
-## About Me
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20sungjoonyoung%20&fontSize=36&animation=fadeIn&fontAlignY=36)
-- Dongguk University, Bachelor of Science in Mathematics and Computer Science
+
+
 - Algorithm Learner
 - MachineLearning-DeepLearning Learner
-
-## 💻 Skills
-
-- <img src="https://img.shields.io/badge/C-172B4D?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1E88E5?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
-<!--
-- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
-- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
--->
-
-## 📝 Major Projects
-
-- [A High-Accuracy Warnsdorff’s Rule-Based Heuristic Solution for the Higher-Dimensional Generalized Knight’s Tour Problem](https://github.com/sungjoonyoung/High-Accuracy_Warnsdorff-s_Rule-Based_Heuristic_Solution_for_the_Higher-Dimensional_Generalized_KTP)
-- 2025AdventureDesign : [BFS-Based Pedestrian Safety Warning System for Vehicles in Alleys](https://github.com/sungjoonyoung/2025AdventureDesign/blob/main/README.md)
-
-## 🗨 Blog
-
-- [Naver Blog](https://blog.naver.com/walkingsnow123)
 
 ## 📃 BOJ / Solved.ac
 
@@ -41,6 +23,27 @@ thx to [- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=
 ### Machine Learning Note
 
 - [MachineLearning-DeepLearning](https://github.com/sungjoonyoung/self_MachineLearning-DeepLearning) : Self-learning in Machine Learning and Deep Learning
+
+-->
+
+## About Me
+- Dongguk University, Bachelor of Science in Mathematics and Computer Science
+
+## 💻 Skills
+
+- <img src="https://img.shields.io/badge/C-172B4D?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1E88E5?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
+<!--
+- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
+- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+-->
+
+## 📝 Major Projects
+
+- [A High-Accuracy Warnsdorff’s Rule-Based Heuristic Solution for the Higher-Dimensional Generalized Knight’s Tour Problem](https://github.com/sungjoonyoung/High-Accuracy_Warnsdorff-s_Rule-Based_Heuristic_Solution_for_the_Higher-Dimensional_Generalized_KTP)
+- 2025AdventureDesign : [BFS-Based Pedestrian Safety Warning System for Vehicles in Alleys](https://github.com/sungjoonyoung/2025AdventureDesign/blob/main/README.md)
+
+## 🗨 Blog
+- [Blog](https://ansan-godel.tistory.com/)
 
 ## 🏆 Cards
 
