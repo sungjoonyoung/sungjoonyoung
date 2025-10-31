@@ -23,11 +23,11 @@ thx to [- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=
 ### Machine Learning Note
 
 - [MachineLearning-DeepLearning](https://github.com/sungjoonyoung/self_MachineLearning-DeepLearning) : Self-learning in Machine Learning and Deep Learning
-
+Bachelor of Science in 
 -->
 
 ## About Me
-- Dongguk University, Bachelor of Science in Mathematics and Computer Science
+- Dongguk University, Mathematics and Computer Science
 
 ## 💻 Skills
 
