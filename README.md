@@ -40,8 +40,8 @@ Bachelor of Science in
 ## 📝 Major Projects
 
 - [A High-Accuracy Warnsdorff’s Rule-Based Heuristic Solution for the Higher-Dimensional Generalized Knight’s Tour Problem](https://github.com/sungjoonyoung/High-Accuracy_Warnsdorff-s_Rule-Based_Heuristic_Solution_for_the_Higher-Dimensional_Generalized_KTP)
+- [CNN Layer only CPP](https://github.com/sungjoonyoung/CNN-layer-onlycpp) - only using vector, iostream lib
 - 2025AdventureDesign : [BFS-Based Pedestrian Safety Warning System for Vehicles in Alleys](https://github.com/sungjoonyoung/2025AdventureDesign/blob/main/README.md)
-- [CNN Layer only CPP](https://github.com/sungjoonyoung/CNN-layer-onlycpp)
 
 ## 🗨 Blog
 - [Blog](https://ansan-godel.tistory.com/)
