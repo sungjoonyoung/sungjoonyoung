@@ -28,9 +28,9 @@ Bachelor of Science in
 
 ## About Me
 - Dongguk University, Mathematics and Computer Science
-
+<!--
 ## 💻 Skills
-
+-->
 - <img src="https://img.shields.io/badge/C-172B4D?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1E88E5?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
 <!--
 - <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
@@ -40,7 +40,9 @@ Bachelor of Science in
 ## 📝 Major Projects
 
 - [A High-Accuracy Warnsdorff’s Rule-Based Heuristic Solution for the Higher-Dimensional Generalized Knight’s Tour Problem](https://github.com/sungjoonyoung/High-Accuracy_Warnsdorff-s_Rule-Based_Heuristic_Solution_for_the_Higher-Dimensional_Generalized_KTP)
-- [CNN Layer only C++](https://github.com/sungjoonyoung/CNN-layer-onlycpp) - only using vector, iostream lib
+- [CNN Layer only C++](https://github.com/sungjoonyoung/CNN-layer-onlycpp)
+  - only using vector, iostream lib + homemade header!
+  - number classification, X/O classification
 - 2025AdventureDesign : [BFS-Based Pedestrian Safety Warning System for Vehicles in Alleys](https://github.com/sungjoonyoung/2025AdventureDesign/blob/main/README.md)
 
 ## 🗨 Blog
