@@ -28,14 +28,7 @@ Bachelor of Science in
 
 ## About Me
 - Dongguk University, Mathematics and Computer Science
-<!--
-## 💻 Skills
--->
-- <img src="https://img.shields.io/badge/C-172B4D?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1E88E5?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
-<!--
-- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
-- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
--->
+
 
 ## 📝 Major Projects
 
@@ -52,6 +45,15 @@ Bachelor of Science in
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungso376)](https://solved.ac/sungso376)
 [![CodeForces Profile](https://cf.leed.at?id=sungso376)](https://codeforces.com/profile/sungso376)
+
+<!--
+## 💻 Skills
+-->
+<img src="https://img.shields.io/badge/C-172B4D?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1E88E5?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
+<!--
+- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
+- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+-->
 <!--
 [![sungjoonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungjoonyoung)](https://github.com/sungjoonyoung)
 -->
