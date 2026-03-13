@@ -40,6 +40,7 @@ Bachelor of Science in
 
 ## 🗨 Blog
 - [Blog](https://ansan-godel.tistory.com/)
+- [Website](https://sungjoonyoung.github.io/)
 
 ## 🏆 Cards
 
