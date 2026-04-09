@@ -11,7 +11,7 @@
 - 2025AdventureDesign : [BFS-Based Pedestrian Safety Warning System for Vehicles in Alleys](https://github.com/sungjoonyoung/2025AdventureDesign/blob/main/README.md)
 
 ## 🗨 Blog
-- [Blog](https://ansan-godel.tistory.com/) / [Website](https://sungjoonyoung.github.io/)
+- [Blog](https://ansan-godel.tistory.com/) / [Website](https://sungjoonyoung.github.io/blog/)
 - [C Programming Lecture Notes](https://github.com/sungjoonyoung/Clang_Study_CAPS)
 
 ## 🏆 Cards
